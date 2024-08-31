@@ -16,4 +16,8 @@ Supervised Machine Learning: Classification
 Unsupervised Machine Learning
 Deep Learning and Reinforcement Learning
 Machine Learning Capstone
+
+
+### Deployment
+
 Finally I deploy project at GCP, Follow ![link](https://github.com/fahadmhd/Recommender-System_IBM-Machine-Learning-project/blob/main/Deploy_on_GCP.ipynb)
